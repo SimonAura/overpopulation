@@ -1,0 +1,6 @@
+﻿namespace Overpopulation
+{
+	class Button
+	{
+	}
+}
